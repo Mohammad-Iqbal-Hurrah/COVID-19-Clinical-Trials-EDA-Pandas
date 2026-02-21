@@ -1,0 +1,6 @@
+just type--> pip install -r requirements.txt -->command in your terminal and install the necessary liberaries 
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
